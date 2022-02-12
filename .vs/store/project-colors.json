@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e368f49-bb9d-4747-885e-34b476f2a990": {
+      "ProjectGuid": "0e368f49-bb9d-4747-885e-34b476f2a990",
+      "DisplayName": "store",
+      "ColorIndex": 0
+    },
+    "07fbd3cb-0ab9-4404-9ad3-56057c4f237e": {
+      "ProjectGuid": "07fbd3cb-0ab9-4404-9ad3-56057c4f237e",
+      "DisplayName": "WebAPIStore",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1ac87c92-5b4a-45f2-b9cd-9f7ec728092f": {
+      "ProjectGuid": "1ac87c92-5b4a-45f2-b9cd-9f7ec728092f",
+      "DisplayName": "StoreModels",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
